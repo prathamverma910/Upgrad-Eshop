@@ -1,0 +1,37 @@
+.login-input {
+    margin-top: 10px !important;
+}
+
+.paperStyle {
+    padding: 20px;
+    width: 400px;
+    margin: 20px auto;
+    background-color: 'rgba(255, 255, 255, 0.9)';
+}
+
+.avatarStyle {
+    background-color: orange !important;
+    margin-right: 20px;
+}
+
+.btnstyle {
+    margin: 8px 0;
+    background-color: #333333 !important;
+    color: orange !important;
+    padding: 10px !important;
+    font-size: 15px !important;
+}
+
+.login-page-container {
+    /* background-image: url('./background.jpg') !important; */
+    background-color: orange !important;
+    background-size: cover;
+    min-height: 92vh;
+    padding: 20px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
